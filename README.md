@@ -21,13 +21,13 @@ Notes*:
  - ~~We were too tired to test the linux version. You can come back later.~~ (It works).
 
 ## Inspiration
-We decided to make BotOfWar because we were curious about game design especially in 3D since our last hackathon game, Call Of Corgi, was in 2D and we wanted to gain experience with Unity and 3D game design and make a bigger and longer game in general.
+We decided to make BotOfWar because we were curious about game design, especially in 3D, since our last hackathon game, Call Of Corgi, was in 2D. We wanted to gain experience with Unity and 3D game design and make a bigger and longer game in general.
 
 ## What it does
-Bot Of War, is a game where you need to find your way out of the city by fighting enemies. Along the way, there are many enemies to defeat and at the end there will be a boss battle.
+Bot Of War is a game where you need to find your way out of the city by fighting enemies. There are many enemies to defeat along the way, and there will be a boss battle in the end.
 
 ## How we built it
-Bot Of War was build using the Unity game engine and was designed with variety of publicly available 3D assets. The scripts were coded in C#.
+Bot Of War was built using the Unity game engine and was designed with various publicly available 3D assets. The scripts were coded in C#.
 
 ## Challenges we ran into
 Due to the lack in game design and development experience across the team we faced the following challenges:
@@ -37,33 +37,31 @@ Due to the lack in game design and development experience across the team we fac
 -   Fixing Lighting and Shadows (Which are still very buggy).
 
 ## Accomplishments that we're proud of
- - "Well, the game works."
+- "Well, the game works."
 -   Despite being our second game, we wera able to make a 3D game right away.
 -   Being able to make an improved combat systems with health bars and more complex enemy AI.
 -   Having a more coherent story.
 ## What we learned
- - Physics Simulation In Blender
- - Physics Simulation In Unity
- - C that is sharp
- - Basic AI for enemies
- - 3D game design in Unity
- - Creating Healthbars
+- Physics Simulation In Unity
+- More Complex C#
+- Basic AI for enemies
+- 3D game design in Unity
+- Creating Healthbars
 - 3D is like 2D, but with an extra dimension
 - Creating complex enemy AI, aggro ranges, sight, subroutines, formations.
 
 ## Future Improvements
- -   Improve the lighting
- -   Improve enemy AI and variety
- -   Make some cutscenes
- -   Add quest markers so that players know where they are going
- -   More Animations
- - 
+ - Improve the lighting
+ - Improve enemy AI and variety
+ - Make some cutscenes
+ - Add quest markers so that players know where they are going
+ - More Animations
+ 
 ## What's next for Bot Of War?
 
- - Adding Extra Levels
- - Adding more of the planned story to the game
- - Introducing new mechanics and fun gameplay
- - Graphics Overhaul
+- Adding more levels
+- Introducing new mechanics and gameplay
+- More enemies
  
  ## Acknowledgments
 We would like to thank Unity for providing us with student licenses and the assets for the main character and the background, Polygon Blacksmith for the enemy models, Triplebrick for the final boss, and Sabri Ayes for some environmental assets.
