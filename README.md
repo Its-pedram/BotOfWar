@@ -1,5 +1,5 @@
 # BotOfWar
-This is the devpost article for WinHacks 2021 online.
+This is the github readme file for WinHacks 2021 hackathon.
 
 # Links
 [Trailer]
