@@ -1,56 +1,69 @@
-# BotOfWar
-This is the github readme file for WinHacks 2021 hackathon.
 
-# Links
-[Trailer]
-[Web Version]
+## How To Play
 
-# Downloads
+ - [x] You Can Play The Web Version Using Our Website [Here](https://BotOfWar.Tech/) OR
+ - [x] Download The Game For Your Prefered OS
+
+## Downloads
+You can download the game for the platform of your choice from the [releases](https://github.com/WSSSDC/CallOfCorgi/releases) tab or from the table below:
 |Platform| Download Link |
 |-|--|
-|Windows| [Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-Windows.zip) (.zip) |
-|macOS  | [Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-macOS.zip) (.zip) |
-|Linux|[Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-Linux.zip) (.zip)|
-|Web(GL)|[Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-WebGL.zip) (.zip)|
-* Windows & Web have been tested and are working fine.
-* Due to macOS's unnecessary security you probably can't simply run the macOS version.
-* The macOS version does work with both Intel chips and Apple Silicon.
-* We were too tired to test the Linux version. You can come back later.
+|Windows| [Download](https://WSDC.Tech/BotOfWar.V1.0-Windows.zip) (.zip) |
+|macOS  | [Download](https://WSDC.Tech/BotOfWar.V1.0-macOS.zip) (.zip) |
+|Linux|[Download](https://WSDC.Tech/BotOfWar.V1.0-Linux.zip) (.zip)|
+|Web(GL)|[Download](https://WSDC.Tech/BotOfWar.V1.0-WebGL.zip) (.zip)|
 
-# Inspiration
-After our first adventure in game dev, we wanted to further explore this field by making a larger, 3D game.
+Notes*:
 
-# Background Story
-You have crashed onto earth and need to leave FAST before humans catch you. Your mission is to fight your way through the city and exit to safety so no one can find you.
+ - Windows & Web have been tested and are working fine.
+ - Due to macOS's unnessesary security you probably can't simply run the macOS version.
+ - The macOS version does work with both Intel chips and Apple Silicon.
+ - ~~We were too tired to test the linux version. You can come back later.~~ (It works).
 
-# Challenges we overcame
-* Getting physics to work
-* Finding Assets
-* Fixing Lighting and Shadows
-* Making sure enemies
+## Inspiration
+We decided to make BotOfWar because we were curious about game design especially in 3D since our last hackathon game, Call Of Corgi, was in 2D and we wanted to gain experience with Unity and 3D game design and make a bigger and longer game in general.
 
-# What we are proud of
-* Despite being our second game, we wera able to make a 3D game right away.
-* Being able to make an improved combat systems with health bars and more complex enemy AI.
-* Having a more coherent story
+## What it does
+Bot Of War, is a game where you need to find your way out of the city by fighting enemies. Along the way, there are many enemies to defeat and at the end there will be a boss battle.
 
-# Things we learned
-* Creating Healthbars
-* 3D is like 2D, but with an extra dimension
-* Creating complex enemy AI, aggro ranges, sight, subroutines, formations.
+## How we built it
+Bot Of War was build using the Unity game engine and was designed with variety of publicly available 3D assets. The scripts were coded in C#.
 
-# Built With
-* Unity
-* Unity Cloud
-* C#
+## Challenges we ran into
+Due to the lack in game design and development experience across the team we faced the following challenges:
 
-# Future Improvments
-* Improve the lighting
-* Improve enemy AI and variety
-* Make some cutscenes
-* Add quest markers so that players know where they are going
-* More Animations
+-   Getting physics to work
+-   Finding Assets
+-   Fixing Lighting and Shadows (Which are still very buggy).
 
+## Accomplishments that we're proud of
+ - "Well, the game works."
+-   Despite being our second game, we wera able to make a 3D game right away.
+-   Being able to make an improved combat systems with health bars and more complex enemy AI.
+-   Having a more coherent story.
+## What we learned
+ - Physics Simulation In Blender
+ - Physics Simulation In Unity
+ - C that is sharp
+ - Basic AI for enemies
+ - 3D game design in Unity
+ - Creating Healthbars
+- 3D is like 2D, but with an extra dimension
+- Creating complex enemy AI, aggro ranges, sight, subroutines, formations.
 
-# Acknowledgments
+## Future Improvements
+ -   Improve the lighting
+ -   Improve enemy AI and variety
+ -   Make some cutscenes
+ -   Add quest markers so that players know where they are going
+ -   More Animations
+ - 
+## What's next for Bot Of War?
+
+ - Adding Extra Levels
+ - Adding more of the planned story to the game
+ - Introducing new mechanics and fun gameplay
+ - Graphics Overhaul
+ 
+ ## Acknowledgments
 We would like to thank Unity for providing us with student licenses and the assets for the main character and the background, Polygon Blacksmith for the enemy models, Triplebrick for the final boss, and Sabri Ayes for some environmental assets.
