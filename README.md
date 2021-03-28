@@ -11,7 +11,7 @@ You can download the game for the platform of your choice from the [releases](ht
 |Windows| [Download](https://drive.google.com/drive/folders/1dWgze_a18IyF8iR_ddsUsMyAY5ESpdBJ?usp=sharing) (.zip) |
 |macOS  | [Download](https://WSDC.Tech/BotOfWar.V1.0-macOS.zip) (.zip) |
 |Linux|[Download](https://WSDC.Tech/BotOfWar.V1.0-Linux.zip) (.zip)|
-|Web(GL)|[Download](https://WSDC.Tech/BotOfWar.V1.0-WebGL.zip) (.zip)|
+|Web(GL)|[Download](https://drive.google.com/file/d/1Q5oi8Y0kIkQERo1mRZXaDeKOkC0TIP5W/view?usp=sharing) (.zip)|
 
 Notes*:
 
