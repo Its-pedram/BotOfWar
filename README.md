@@ -1,7 +1,7 @@
 
 ## How To Play
 
- - [x] You Can Play The Web Version Using Our Website [Here](https://BotOfWar.Tech/) OR
+ - [x] You Can Play The Web Version Using Our Website [Here](https://developer.cloud.unity3d.com/share/share.html?shareId=bkqIVGs4RI) OR
  - [x] Download The Game For Your Prefered OS
 
 ## Downloads
