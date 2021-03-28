@@ -1,4 +1,4 @@
-# WinHacks 2021
+# BotOfWar
 This is the devpost article for WinHacks 2021 online.
 # Background
 [Add Story]
