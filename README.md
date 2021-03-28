@@ -1,5 +1,10 @@
 # BotOfWar
 This is the devpost article for WinHacks 2021 online.
+
+# Links
+[Trailer]
+[Web Version]
+
 # Downloads
 |Platform| Download Link |
 |-|--|
@@ -7,7 +12,15 @@ This is the devpost article for WinHacks 2021 online.
 |macOS  | [Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-macOS.zip) (.zip) |
 |Linux|[Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-Linux.zip) (.zip)|
 |Web(GL)|[Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-WebGL.zip) (.zip)|
-# Background
+* Windows & Web have been tested and are working fine.
+* Due to macOS's unnecessary security you probably can't simply run the macOS version.
+* The macOS version does work with both Intel chips and Apple Silicon.
+* We were too tired to test the Linux version. You can come back later.
+
+# Inspiration
+After our first adventure in game dev, we wanted to further explore this field by making a larger, 3D game.
+
+# Background Story
 You have crashed onto earth and need to leave FAST before humans catch you. Your mission is to fight your way through the city and exit to safety so no one can find you.
 
 # Challenges we overcame
@@ -31,9 +44,13 @@ You have crashed onto earth and need to leave FAST before humans catch you. Your
 * Unity Cloud
 * C#
 
-# Links
-[Trailer]
-[Web Version]
+# Future Improvments
+* Improve the lighting
+* Improve enemy AI and variety
+* Make some cutsences
+* Add quest markers so that players know where they are going
+* More Animations
+
 
 # Acknowledgments
 We would like to thank Unity for providing us with student licenses and the assets for the main character and the background, Polygon Blacksmith for the enemy models, Triplebrick for the final boss, and Sabri Ayes for some environmental assets.
