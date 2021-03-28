@@ -1,5 +1,12 @@
 # BotOfWar
 This is the devpost article for WinHacks 2021 online.
+# Downloads
+|Platform| Download Link |
+|-|--|
+|Windows| [Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-Windows.zip) (.zip) |
+|macOS  | [Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-macOS.zip) (.zip) |
+|Linux|[Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-Linux.zip) (.zip)|
+|Web(GL)|[Download](https://WSDC.Tech/dl/CallOfCorgi.V1.0-WebGL.zip) (.zip)|
 # Background
 You have crashed onto earth and need to leave FAST before humans catch you. Your mission is to fight your way through the city and exit to safety so no one can find you.
 
