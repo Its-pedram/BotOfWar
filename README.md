@@ -8,7 +8,7 @@
 You can download the game for the platform of your choice from the [releases](https://github.com/WSSSDC/CallOfCorgi/releases) tab or from the table below:
 |Platform| Download Link |
 |-|--|
-|Windows| [Download](https://WSDC.Tech/BotOfWar.V1.0-Windows.zip) (.zip) |
+|Windows| [Download](https://drive.google.com/drive/folders/1dWgze_a18IyF8iR_ddsUsMyAY5ESpdBJ?usp=sharing) (.zip) |
 |macOS  | [Download](https://WSDC.Tech/BotOfWar.V1.0-macOS.zip) (.zip) |
 |Linux|[Download](https://WSDC.Tech/BotOfWar.V1.0-Linux.zip) (.zip)|
 |Web(GL)|[Download](https://WSDC.Tech/BotOfWar.V1.0-WebGL.zip) (.zip)|
