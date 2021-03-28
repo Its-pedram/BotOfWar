@@ -1,7 +1,7 @@
 # BotOfWar
 This is the devpost article for WinHacks 2021 online.
 # Background
-[Add Story]
+You have crashed onto earth and need to leave FAST before humans catch you. Your mission is to fight your way through the city and exit to safety so no one can find you.
 
 # Challenges we overcame
 * Getting physics to work
@@ -21,10 +21,12 @@ This is the devpost article for WinHacks 2021 online.
 
 # Built With
 * Unity
-  
+* Unity Cloud
+* C#
+
 # Links
 [Trailer]
 [Web Version]
 
 # Acknowledgments
-We would like to thank Unity for providing us with the assets for the main character and the background, Polygon Blacksmith for the enemy models, Triplebrick for the final boss, and Sabri Ayes for some environmental assets.
+We would like to thank Unity for providing us with student licenses and the assets for the main character and the background, Polygon Blacksmith for the enemy models, Triplebrick for the final boss, and Sabri Ayes for some environmental assets.
