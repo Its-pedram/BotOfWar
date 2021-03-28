@@ -47,7 +47,7 @@ You have crashed onto earth and need to leave FAST before humans catch you. Your
 # Future Improvments
 * Improve the lighting
 * Improve enemy AI and variety
-* Make some cutsences
+* Make some cutscenes
 * Add quest markers so that players know where they are going
 * More Animations
 
