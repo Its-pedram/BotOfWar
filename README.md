@@ -51,7 +51,7 @@ Due to the lack of game design and development experience across the team, we fa
 # Acknowledgements
 We want to thank everyone WinHacks for giving us this opportunity, Unity for providing us with student licenses and the assets for the main character and the background, Polygon Blacksmith for the enemy models, Triplebrick for the final boss, and Sabri Ayes for some environmental assets.
 
-Try it out
- * BotOfWar.Tech
-  * drive.google.com
- *  1drv.ms
+# Try it out
+ * [BotOfWar.Tech](BotOfWar.tech)
+ * [drive.google.com](https://drive.google.com/drive/folders/1tf3IK_V6r5JLuNLj45SCe84oFH-6fdAT?usp=sharing)
+ *  [1drv.ms](https://1drv.ms/u/s!Aj3-KSMeD-RPi7QsDPo-VZt5Vnaqag?e=DBDDRR)
