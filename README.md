@@ -4,11 +4,6 @@ You can go to our website to play the web version right from your browser! Or yo
  * [drive.google.com](https://drive.google.com/drive/folders/1tf3IK_V6r5JLuNLj45SCe84oFH-6fdAT?usp=sharing)
  *  [1drv.ms](https://1drv.ms/u/s!Aj3-KSMeD-RPi7QsDPo-VZt5Vnaqag?e=DBDDRR)
 
-# Github Status
-Our files are a bit too large for GitHub's liking, so we can't get our project up on there. However, the game's downloads are available on our website, https://botofwar.tech/
-
-We are also currently uploading to Google Drive and OneDrive so you can have access to the files. The links to those files will be in our Try it out section.
-
 # 💡 Inspiration
 We decided to make BotOfWar because we were curious about game design, especially in 3D, since our last hackathon game, Call Of Corgi, was in 2D. We wanted to gain experience with Unity and 3D game design and make a bigger and longer game in general.
 
