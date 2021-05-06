@@ -1,0 +1,16 @@
+-Art provided by Quixel are within the folder named "Quixel"
+
+
+-The below animation titles are provided by Centroid Motion Capture from Rokoko's Motion Library:
+‘Alert_tr_Stand’
+‘Rund_Scare’
+‘Digging’
+https://assetstore.unity.com/motion-library
+
+
+
+
+
+No attribution or credit is necessary for use of these third party components within the bounds of the EULA.
+https://unity3d.com/legal/as_terms
+
